@@ -1,1 +1,1 @@
-61c5c728-d61f-11e5-923a-60f81dc85524
+BEGIN { print "Hello, world!"  }
